@@ -36,15 +36,9 @@ $ npm run build
 ## Documentation
 
 <!-- %docs
-title: Select Menu
-status: Experimental
--->
-
----
 title: Select menu
 status: Stable
-source: /app/assets/stylesheets/primer-product/select-menu.scss
----
+-->
 
 The select menu provides advanced support for navigation, filtering, and more. Any popover within a select menu can make use of JavaScript-enabled live filtering, selected states, tabbed lists, and keyboard navigation with a bit of markup.
 
