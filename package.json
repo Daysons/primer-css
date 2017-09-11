@@ -1,6 +1,7 @@
 {
   "private": true,
   "scripts": {
+    "postinstall": "npm run bootstrap",
     "start": "start-storybook -p 8000 -c .storybook",
     "bootstrap": "lerna bootstrap --hoist",
     "clean": "lerna clean",
